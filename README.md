@@ -33,3 +33,6 @@ To get started with the project, follow these steps:
    - cd apples
    - npm install
    - npm run dev
+   
+## Figma-Link
+https://www.figma.com/design/uxDrZmBMhCyVhAyC4fmKIB/E-commerce-Responsive-Template-(Community)-(Copy)?node-id=2607-6390&t=kcIgkwWlRxl6R3L3-0
